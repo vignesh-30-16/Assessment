@@ -47,6 +47,7 @@
     display: flex;
     gap: 30px;
 }
+
 .nav-list ul{
     display: flex;
     gap: 90px;
